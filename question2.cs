@@ -1,10 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace DIS_Summer_2021
 {
-    class question2
+    public class question2
     {
         
 		public static void Main(string[] args)
